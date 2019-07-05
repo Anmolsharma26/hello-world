@@ -5,7 +5,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Survey Form</title>
 </head>
 <body>
 <h1 id="title"> Survey Form</h1>
