@@ -5,11 +5,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Survey Form</title>
 </head>
 <body>
 <h1 id="title"> Survey Form</h1>
-<p id="description">Let us know hoe we can improve freecodecamp</p>
+<p id="description">Let us know how we can improve freecodecamp</p>
 <form id="survey-form">
 	<div class="rowTab">
 		<div class="label">
